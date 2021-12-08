@@ -1,2 +1,2 @@
 hello.file.2
-This line added on GitHub to f2.txt
+This line added on GitHub
